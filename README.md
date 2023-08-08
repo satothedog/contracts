@@ -5,7 +5,7 @@ Open source codes for Sato Ecosystem. LET's BUDL!
 
 ## Official Links
 
-- Contract address: [0x5eAE7BcF99E6A479E9E2438cb407cDa87833e928](https://etherscan.io/token/0x5eAE7BcF99E6A479E9E2438cb407cDa87833e928)
+- Contract address: [0x77224c6fE41a629e1E5C807e2Bcb7A03021E9AaE](https://basescan.org/token/0x77224c6fE41a629e1E5C807e2Bcb7A03021E9AaE)
 - Website: https://satothedog.com
 - Twitter: https://twitter.com/satothedog
 - Telegram: https://t.me/satothedog
